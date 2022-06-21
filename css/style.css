@@ -178,11 +178,6 @@ body {
   margin-right: 16px;
 }
 
-@media screen and (min-width: 376px) {
-  .card-avatar img {
-  }
-}
-
 .card-user {
   font-weight: 200;
 }
